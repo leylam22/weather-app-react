@@ -1,0 +1,13 @@
+.container{
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    border-radius: 20px;
+    width: 400px;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    background-color: #14181f;
+    color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
